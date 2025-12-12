@@ -423,8 +423,7 @@ Special thanks to:
 
 <div align="center">
 
-### 🌟 Made with ❤️ by [Kaluri Himabindhu](https://github.com/Hiomio)
-
+### 🌟 Made with ❤️ by [Kaluri Himabindhu]
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hiomio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaluri-himabindhu-9378b927a/)
@@ -433,3 +432,4 @@ Special thanks to:
 
 
 </div>
+
